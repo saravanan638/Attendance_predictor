@@ -1,7 +1,4 @@
 Flask
 Pillow
 google-generativeai
-json
 PIL
-re
-os
