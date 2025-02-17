@@ -1,4 +1,3 @@
-Flask
-Pillow
-google-generativeai
-PIL
+Flask==3.1.0
+Pillow==11.1.0
+google-generativeai==0.8.4
